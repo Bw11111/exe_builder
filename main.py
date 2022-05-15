@@ -1,7 +1,7 @@
 import sys
 import os
 
-import PyInstaller.__ma
+import PyInstaller.__main
 
 from termcolor import colored
 
